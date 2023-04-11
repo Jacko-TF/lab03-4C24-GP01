@@ -1,4 +1,4 @@
 ## Laboratorio 03
 ### Introduccion
-- pago 1
-- paso 2
+- Paso 1
+- Paso 2
